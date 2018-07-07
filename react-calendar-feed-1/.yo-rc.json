@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "react-calendar-feed-1",
+    "libraryId": "ee46167d-19d7-4391-9593-0676554e5da7",
+    "environment": "spo"
+  }
+}

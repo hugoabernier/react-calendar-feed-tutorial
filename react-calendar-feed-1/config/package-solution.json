@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-calendar-feed-1-client-side-solution",
+    "id": "ee46167d-19d7-4391-9593-0676554e5da7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/react-calendar-feed-1.sppkg"
+  }
+}
